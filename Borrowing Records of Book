@@ -1,0 +1,5 @@
+In this program we are including following points 
+   1. computing the average number of books borring by all library members .
+   2. Finding the book with highest and lowest number of borrowing in the library
+   3. Counting the number of members who have not borrowed any books (denoted by a borrow count of 0).      
+   4. Displaying the most frequently borrowed book (i.e., the mode of borrow counts).
